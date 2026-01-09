@@ -2,7 +2,7 @@
 
 This repository provides Jupyter/Python notebooks designed to support the teaching of gas-phase chemical equilibrium through an integrated thermodynamic, kinetic, and statistical-mechanical perspective. The notebooks include interactive simulations of equilibrium shifts, time-dependent kinetic relaxation, and calculations linking molecular properties and partition functions to macroscopic observables.
 
-In addition to the notebooks, the repository includes a student handout (PDF) with guided activities and exercises for the N₂O₄ ⇌ 2 NO₂ case study, integrating chemical thermodynamics, statistical mechanics, computational chemistry, and chemical kinetics. This document will be updated over time as the materials are refined. Note that Notebooks 1 and 2 also include sections that allow the analysis of other gas-phase reactions.
+In addition to the notebooks, the repository includes a student handout (PDF) with guided activities and exercises for the N₂O₄ ⇌ 2 NO₂ case study. This document will be updated over time as the materials are refined. Note that Notebooks 1 and 2 also include sections that allow the analysis of other gas-phase reactions.
 
 These materials accompany a manuscript submitted to the *Journal of Chemical Education* and are suitable for classroom demonstrations, guided-inquiry activities, or independent student study.
 
