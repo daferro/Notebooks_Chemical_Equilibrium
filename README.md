@@ -1,4 +1,4 @@
-# Notebooks_Chemical_Equilibrium
+# Teaching Gas-Phase Chemical Equilibrium with Jupyter Notebooks
 
 This repository provides Jupyter/Python notebooks designed to support the teaching of gas-phase chemical equilibrium through an integrated thermodynamic, kinetic, and statistical-mechanical perspective. The notebooks include interactive simulations of equilibrium shifts, time-dependent kinetic relaxation, and calculations linking molecular properties and partition functions to macroscopic observables.
 
